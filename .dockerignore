@@ -1,0 +1,6 @@
+.git*
+.idea
+.vscode
+.codebuild
+.dockerignore
+Dockerfile
